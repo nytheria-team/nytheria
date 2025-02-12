@@ -1,9 +1,6 @@
 blank_issues_enabled: false
 
-# Isso ainda está sendo planejado...
-#
-# contact_links:
-#  - name: Relatar Vulnerabilidades ou Solicitar Ajuda
-#    url: ...
-#    about: Entre em contato conosco pelo e-mail team@nytheria.online.
-#
+contact_links:
+  - name: 🛡️ Reporte de Vulnerabilidades de Segurança e Suporte
+    url: https://github.com/nytheria-team/nytheria/wiki/Reporte-de-Vulnerabilidades-de-Seguran%C3%A7a-e-Suporte
+    about: Reporte vulnerabilidades de segurança e solicite suporte técnico aqui.
